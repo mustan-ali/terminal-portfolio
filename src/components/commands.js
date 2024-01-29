@@ -42,6 +42,8 @@ export const getOutput = (command, setCommand) => {
         case "projects":
             return (
                 <div>
+                    <a className="text-green-500" href="https://github.com/mustan-ali/BookStore" target="_blank" rel="noreferrer">BookStore </a>
+                    - MERN Bookstore: Manage your book collection with ease - view, edit, delete, and explore specific books in a sleek interface. <br />
                     <a className="text-green-500" href="https://github.com/mustan-ali/Workout-Tracker" target="_blank" rel="noreferrer">Workout Tracker </a>
                     - A comprehensive workout tracking application built with the MERN Stack enabling users to log & manage their exercise routines. <br />
                     <a className="text-green-500" href="https://github.com/mustan-ali/NewsWire" target="_blank" rel="noreferrer">NewsWire </a>

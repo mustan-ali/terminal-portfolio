@@ -1,0 +1,126 @@
+{
+    "help": [
+        {
+            "label": "about",
+            "content": "Learn more about me."
+        },
+        {
+            "label": "skills",
+            "content": "I guess, I am good at certain things."
+        },
+        {
+            "label": "projects",
+            "content": "Check out the cool stuff I've made."
+        },
+        {
+            "label": "contact",
+            "content": "Reach out if I catch your interest."
+        },
+        {
+            "label": "resume",
+            "content": "Checkout my Resume."
+        },
+        {
+            "label": "clear",
+            "content": "Clear the terminal."
+        }
+    ],
+    "contact": [
+        {
+            "label": "Github",
+            "content": "Here you can find all my projects and contributions.",
+            "link": "https://github.com/mustan-ali"
+        },
+        {
+            "label": "LinkedIn",
+            "content": "Here you can find my professional profile.",
+            "link": "https://www.linkedin.com/in/mustan-ali"
+        }
+    ],
+    "skills": [
+        {
+            "label": "Languages",
+            "content": "C, Java, Python, JavaScript"
+        },
+        {
+            "label": "Front-End",
+            "content": "HTML, CSS, Bootstrap, React"
+        },
+        {
+            "label": "Back-End",
+            "content": "RestAPI, SQL, NodeJS, ExpressJS, MongoDB"
+        }
+    ],
+    "projects": [
+        {
+            "label": "User Authentication",
+            "content": "Node & Express User Authentication with Bcrypt and JWT.",
+            "link": "https://github.com/mustan-ali/User-Authentication"
+        },
+        {
+            "label": "BookStore",
+            "content": "MERN Bookstore: Manage your book collection with ease - view, edit, delete, and explore specific books in a sleek interface.",
+            "link": "https://github.com/mustan-ali/BookStore"
+        },
+        {
+            "label": "Workout Tracker",
+            "content": "A comprehensive workout tracking application built with the MERN Stack enabling users to log & manage their exercise routines.",
+            "link": "https://github.com/mustan-ali/Workout-Tracker"
+        },
+        {
+            "label": "NewsWire",
+            "content": "The NewsWire app, built using React JS, enables users to view news from a variety of categories through newsapi.org.",
+            "link": "https://github.com/mustan-ali/NewsWire"
+        },
+        {
+            "label": "TextUtils",
+            "content": "A web-based text utility tool built using React JS. It allows users to edit, format, manipulate and convert text.",
+            "link": "https://github.com/mustan-ali/TextUtils"
+        },
+        {
+            "label": "WiFi QR-Code Generator",
+            "content": "A web-based WiFi QR code generator that lets users create QR codes for connecting to a Wi-Fi network.",
+            "link": "https://github.com/mustan-ali/WiFi-QR-Code-Generator"
+        },
+        {
+            "label": "Tic Tac Toe",
+            "content": "A simple Tic Tac Toe game built with React, where two players can take turns to compete.",
+            "link": "https://github.com/mustan-ali/Tic-Tac-Toe"
+        },
+        {
+            "label": "Quest Rush",
+            "content": "Software Construction & Development (SCD) Project",
+            "link": "https://github.com/mustan-ali/Quest-Rush"
+        },
+        {
+            "label": "Semester Course Performance",
+            "content": "Database Systems (DBS) Project",
+            "link": "https://github.com/mustan-ali/Semester-Course-Performance"
+        },
+        {
+            "label": "Password Management System",
+            "content": "Data Structures & Algorithms (DSA) Project",
+            "link": "https://github.com/mustan-ali/Password-Management-System"
+        },
+        {
+            "label": "Medical Billing System",
+            "content": "Computer Organization and Assembly Language (COAL) Project",
+            "link": "https://github.com/mustan-ali/Medical-Billing-System"
+        },
+        {
+            "label": "Airline Reservation System",
+            "content": "Object Oriented Programming (OOP) Project",
+            "link": "https://github.com/mustan-ali/Airline-Reservation-System"
+        },
+        {
+            "label": "ATM Software",
+            "content": "Fundamental of Programming (FoP) Project",
+            "link": "https://github.com/mustan-ali/ATM-Software"
+        },
+        {
+            "label": "Cash Register Software",
+            "content": "Introduction to Computer Science (ICS) Project",
+            "link": "https://github.com/mustan-ali/Cash-Register-Software"
+        }
+    ]
+}
